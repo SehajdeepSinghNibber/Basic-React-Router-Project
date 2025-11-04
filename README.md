@@ -101,7 +101,7 @@ src/
 
 ---
 
-## ✨ Author
+## ✨ Sehajdeep Singh
 
 **Sehajdeep Singh**
 💡 *Learning React step by step!*
